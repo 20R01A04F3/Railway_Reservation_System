@@ -1,0 +1,10 @@
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\ApiGatewayApplication.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\config\BeanConfig.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\config\JwtRequestFilter.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\config\SecurityConfig.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\dto\ErrorResponse.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\dto\JwtAuthenticationEntryPoint.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\dto\ValidationResponse.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\exceptions\CustomGlobalErrorWebExceptionHandler.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\exceptions\JwtAuthenticationException.java
+C:\Users\thavkc\Downloads\Backend-Microservices\Backend\Backend\api-gateway\api-gateway\src\main\java\com\example\feign\AuthServiceClient.java
